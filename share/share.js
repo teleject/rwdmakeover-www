@@ -23,7 +23,7 @@ $(function() {
     
     $('.twitter').on('click', function() {
         var loc = encodeURIComponent('http://telejec.tv/rwdmakeover'),
-                title = "A practical #RWD makeover book + course by @teleject — ",
+                title = "A practical RWD makeover book + course by @teleject — ",
                 w = 580, h = 300,
                 left = (screen.width/2)-(w/2),
                 top = (screen.height/2)-(h/2);
